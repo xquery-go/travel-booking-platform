@@ -315,8 +315,8 @@ The Generic Repository pattern provides a way to manage CRUD operations in a con
 #### 2. **Clone the Repository**
 
 ```bash
-git clone https://github.com/Leen-odeh3/Travel-and-Accommodation-Booking-Platform.git
-cd Travel-and-Accommodation-Booking-Platform
+git clone https://github.com/xquery-go/travel-booking-platform.git
+cd travel-booking-platform
 ```
 #### 3. **Configure appsettings.json**
  Open the `appsettings.json` file located in your project directory and configure the connection string for SQL Server. 
@@ -327,17 +327,4 @@ cd Travel-and-Accommodation-Booking-Platform
   }
 }
 ```
-## 🛟 Contact and Support
-If you have any questions or comments about the project, please feel free to contact me at `leenodeh287@gmail.com`.
-
-## 🏅 Acknowledgements
-I extend my sincere gratitude to <a href="https://www.foothillsolutions.com/">Foothill Technology Solutions </a> for granting me the opportunity to participate in this internship cycle. Their unwavering support has been instrumental throughout the development of this project.
-
-<div align="center">
-
-![download](https://github.com/user-attachments/assets/e0ff60a8-63e0-44c6-8890-1391c1a39e75)
-
-#### Thank you for your interest. I look forward to hearing from you! 🥳
-
-</div>
 
